@@ -1,2 +1,2 @@
 # Spell-Checker
-Cs102 proje
+Cs102 project
